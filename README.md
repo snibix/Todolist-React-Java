@@ -1,7 +1,7 @@
 # 📌 TodoList React + Java
 
 ## 🚀 Description
-Ce projet est une **application de gestion de tâches** réalisée avec **React pour le frontend** et **Java (Spring Boot ou autre backend Java)** pour le backend.  
+Ce projet est une **application de gestion de tâches** réalisée avec **React pour le frontend** et **Java (Spring Boot)** pour le backend.  
 
 L’objectif était de **m’entraîner à Java** après avoir réalisé plusieurs katas, tout en créant une application fonctionnelle permettant de gérer une liste de tâches (**CRUD**).  
 
